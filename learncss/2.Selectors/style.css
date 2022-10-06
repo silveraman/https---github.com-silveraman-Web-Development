@@ -1,0 +1,25 @@
+*{
+    font-family: fangsong;
+}
+
+body{
+    font-size: 20px;
+}
+#first{
+    color:rgb(219, 156, 73);
+}
+#first>p{
+    color: rgb(227, 13, 13);
+}
+
+.second-class{
+    color: purple;
+    font-family: monospace;
+}
+.highlight{
+    background-color: yellow;
+    font-style: italic;
+}
+#third{
+    color: rgb(148, 95, 30);
+}
